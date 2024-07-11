@@ -1,16 +1,21 @@
-# firebase_app
+# Food_delivery_app
 
-A new Flutter project.
+A food delivery application built with Flutter, utilizing Provider for state management. This project focuses on providing a seamless food ordering experience without relying on a backend server.
 
-## Getting Started
+![6](https://github.com/Abdelkrimmenache/Food_Delivery_app-/assets/168285726/35c0f69e-0a6b-469a-9b99-a951e107e3d4)
+## Features
 
-This project is a starting point for a Flutter application.
+### Browse Menu
+Explore a variety of food items with detailed descriptions and prices.
+### Add to Cart: 
+Select food items and add them to the cart.
+### Manage Cart: 
+View and modify cart items including quantity adjustments and deletions.
+### Place Order: 
+Simulate placing orders and tracking their status locally.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used 
+## Flutter:
+For building the cross-platform mobile application.
+## Provider: 
+For state management to manage cart and order states.
